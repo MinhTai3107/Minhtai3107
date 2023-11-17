@@ -1,5 +1,4 @@
-# 💫About Me :
-HELLO, I'm Tai - Phan Minh
+# 💫HELLO, I'm Tai - Phan Minh
 Studying Embedded Systems and Internet of Things of Ho Chi Minh City Univesity of Technology and Education.
 
 ## 🌐Socials
