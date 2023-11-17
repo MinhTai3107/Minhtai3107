@@ -1,5 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+### HELLO, I'm Tai - Phan Minh
+Studying Embedded Systems and Internet of Things of Ho Chi Minh City Univesity of Technology and Education.<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Minhtai3107/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](www.youtube.com/@phanminhtai6706) [![Facebook](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.facebook.com/profile.php?id=100057957522268))
