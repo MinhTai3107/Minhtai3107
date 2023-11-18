@@ -1,4 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=Minhtai3107&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MinhTai3107.MinhTai3107&"  />
+</div>
 
 # 💫HELLO, I'm Tai - Phan Minh
 Studying Embedded Systems and Internet of Things of Ho Chi Minh City Univesity of Technology and Education.
